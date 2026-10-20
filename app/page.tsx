@@ -26,7 +26,7 @@ export default function Home() {
 
       {/* About Section */}
       <section className="bg-white py-16 px-8">
-        <h3 className="text-3xl font-bold text-gray-800 mb-6">About Us</h3>
+        <h3 className="text-3xl font-bold text-gray-800 mb-6">About Nyxardrop</h3>
         <p className="text-gray-600 leading-relaxed">
           This is a simple starter site built with Next.js and Tailwind CSS.
           You can customize it to showcase your project, portfolio, or business.
@@ -40,3 +40,6 @@ export default function Home() {
     </div>
   )
 }
+git add app/page.tsx
+git commit -m "update about section text"
+git push
