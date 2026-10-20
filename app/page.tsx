@@ -40,6 +40,3 @@ export default function Home() {
     </div>
   )
 }
-git add app/page.tsx
-git commit -m "update about section text"
-git push
